@@ -1,7 +1,7 @@
 # Business Analyst Portfolio
 
 ### Education
--Management, MBA - In Process
+Management, MBA - In Process
 
 ### Work Experience
 - Business Development & Operation Consultant @ North Business Solutions
